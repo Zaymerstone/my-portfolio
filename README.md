@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-My portfolio website designed to showcase my work as a aspiring **full-stack developer** with a growing interest in **Machine Learning and AI development**.  
+My portfolio website designed to showcase my work as an aspiring **full-stack developer** with a growing interest in **Machine Learning and AI development**.  
 This site serves as my professional online presence for internships, collaborations, and other opportunities.
 
 ---
