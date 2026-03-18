@@ -30,7 +30,7 @@ export const Hero = () => {
           <h1 className="text-5xl md:text-7xl font-bold tracking-tight">
             <span className="gradient-text">Full-Stack Developer</span>
             <span className="block text-foreground mt-2">
-              Interested in ML/AI
+              Integrating AI solutions
             </span>
           </h1>
           <p className="text-xl md:text-2xl font-light text-muted-foreground">

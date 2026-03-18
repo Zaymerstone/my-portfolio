@@ -10,9 +10,8 @@ const skillCategories = [
     icon: Code2,
     skills: [
       "React",
-      "Redux",
       "TypeScript / JavaScript",
-      "Chakra UI",
+      "Redux",
       "Tailwind CSS",
       "Material UI",
     ],
@@ -21,33 +20,19 @@ const skillCategories = [
   {
     title: "Backend",
     icon: Database,
-    skills: [
-      "Python / JavaScript",
-      "Flask",
-      "FastAPI",
-      "Express",
-      "SQLAlchemy",
-      "Sequelize",
-    ],
+    skills: ["JavaScript", "NodeJS / NextJS", "Express", "Sequelize"],
     color: "from-emerald-500/20 to-teal-500/20",
   },
   {
-    title: "AI/ML",
+    title: "AI theoretical knowledge",
     icon: Brain,
-    skills: ["NumPy", "Jupyter Notebook", "Theoretical Machine Learning"],
+    skills: ["RAG", "Tokenization", "Embedding", "BERT Transformers", "LLM"],
     color: "from-purple-500/20 to-pink-500/20",
   },
   {
     title: "Tools",
     icon: Wrench,
-    skills: [
-      "Git",
-      "Supabase",
-      "PostgreSQL",
-      "Docker",
-      "Cursor IDE",
-      "GitHub Copilot",
-    ],
+    skills: ["Git", "Supabase", "PostgreSQL", "Docker", "Cursor IDE", "Vercel"],
     color: "from-orange-500/20 to-red-500/20",
   },
 ];

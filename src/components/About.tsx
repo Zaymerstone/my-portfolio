@@ -8,15 +8,14 @@ export const About = () => {
   const isInView = useInView(ref, { once: true, margin: "-100px" });
 
   const keywords = [
-    "Full-stack development",
+    "Full-stack Architecture",
     "REST API Development",
     "CRUD Operations",
-    "Frontend and Backend Integration",
-    "AI & Machine Learning",
-    "Linear Regression",
-    "Gradient Descent",
-    "K-Nearest Neighbors",
-    "Always willing to learn new things",
+    "Feature-Sliced Design",
+    "Scalable Backend Design",
+    "Product Ownership",
+    "System Design & Tradeoffs",
+    "RAG & LLM Integration",
   ];
 
   return (
@@ -28,7 +27,7 @@ export const About = () => {
           transition={{ duration: 0.6 }}
           className="text-center mb-16"
         >
-          <h2 className="text-4xl md:text-5xl font-bold mb-4">About Me</h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-4">Who am I?</h2>
           <div className="w-20 h-1 bg-primary mx-auto rounded-full" />
         </motion.div>
 
@@ -58,23 +57,25 @@ export const About = () => {
             className="space-y-6"
           >
             <p className="text-lg text-muted-foreground leading-relaxed">
-              I'm a full-stack developer who is passionate about integrating
-              Machine Learning algorithms and AI into applications. Currently
-              I'm pursuing my MSc in Cognitive Science with a focus on AI/ML. As
-              AI and machine learning advance rapidly, I believe that progress
-              depends on understanding how humans think and behave. By studying
-              cognition and human decision-making, I can bring human-centered
-              insight with technical innovation - helping build AI systems that
-              are more human-connected and effective.
+              My journey started with full-stack development, but I always felt
+              like something was missing - the "why" behind how people actually
+              use tools. That’s how I ended up doing my MSc in Cognitive
+              Science. I wanted to understand humans first before building AIs
+              helping them. Now, I’m in the hardest chapter of my life balancing
+              a million things at once: my studies, my startup ListenLab, work I
+              do on the side, participating in competitions, and just growing as
+              a person. Because I want to save the memories, I document my
+              technical headaches, wins and losses on YouTube and Telegram.
+              Well, now you know more about me 😉 !
             </p>
 
             <p className="text-lg text-muted-foreground leading-relaxed">
-              My current goal is to gain real-world experience in full-stack
-              development, with a focus on working on ML/AI integration tasks. I
-              want to build on my existing full-stack foundation and develop
-              practical experience in applying ML and AI in products. That's why
-              now I'm looking for an internship where I can contribute to real
-              projects while advancing these skills.
+              So what I am actually looking for? I’m not here for a
+              "comfortable" internship or a line on my CV. I want to expose
+              myself to the type of an environment where "Damn, how do I even do
+              it?" kicks in. Only by becoming the busiest I can be in such
+              environments, I do grow. That's why, I am currently in search for
+              such place :)
             </p>
 
             <div className="pt-4">

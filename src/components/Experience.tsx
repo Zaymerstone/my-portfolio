@@ -16,7 +16,7 @@ const timeline = [
     type: "work",
     title: "Full-Stack Developer / CEO of ListenLab",
     organization: "Self-Employed",
-    period: "Sep 2025 - Present",
+    period: "Nov 2025 - Present",
     description:
       "Currently, I proactively reach out to local businesses and early-stage teams providing solutions - from landing pages to complete full-stack applications, gaining practical experience and making sure that the delivered result satisfies stakeholder's needs. Moreover, I am working on a ListenLab startup, founded by me and my best friend, a university-backed platform for Sorbonne and Université Paris Cité that allows psychology students to get experience by connecting them with people who need mental health support. Our goal is to provide Psychology major students with an opportunity to get real-world experience and portfolio that would simplify their career success.",
   },
